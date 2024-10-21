@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  /*
  * QEMU mycpu System Emulator
  */
